@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elhadjx" alt="elhadjx" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/dino_elhadj" target="blank"><img src="https://img.shields.io/twitter/follow/dino_elhadj?logo=twitter&style=for-the-badge" alt="dino_elhadj" /></a> </p>
+
 - 🔭 I’m currently working on [NFT generator](https://github.com/nftpicgen)
 
 - 🌱 I’m currently learning **Backend Engineer Career Path from Codecademy**
@@ -21,6 +23,8 @@
 <p align="left">
 <a href="https://twitter.com/dino_elhadj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dino_elhadj" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hadj-hadji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hadj-hadji" height="30" width="40" /></a>
+<a href="https://fb.com/dino.hadji.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dino.hadji.9" height="30" width="40" /></a>
+<a href="https://instagram.com/elhadj.x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="elhadj.x" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
