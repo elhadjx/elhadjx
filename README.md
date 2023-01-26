@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [NFT generator](https://github.com/nftpicgen)
 
-- 🌱 I’m currently learning **Backend Engineer Career Path from Codecademy**
+- 🌱 I’m currently learning [**Backend Engineer Career Path from Codecademy**](https://www.codecademy.com/learn/paths/back-end-engineer-career-path)
 
 - 👯 I’m looking to collaborate on **backend of any web app**
 
