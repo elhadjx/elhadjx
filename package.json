@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/elhadjx/elhadjx#readme",
   "dependencies": {
+    "child_process": "^1.0.2",
     "fs": "0.0.1-security"
   }
 }
