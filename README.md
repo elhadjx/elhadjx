@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hadj</h1>
+<h1 align="center">Hi 📋, I'm Hadj</h1>
 <h3 align="center">A passionate Backend developer from Algeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elhadjx&label=Profile%20views&color=ff0000&style=flat" alt="elhadjx" /> </p>
