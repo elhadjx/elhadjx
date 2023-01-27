@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hadj</h1>
-<h3 align="center">A passionate backend developer from Algeria</h3>
+<h3 align="center">A passionate Backend developer from Algeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elhadjx&label=Profile%20views&color=ff0000&style=flat" alt="elhadjx" /> </p>
 
-- 🔭 I’m currently working on [NFT generator](https://github.com/nftpicgen)
+- 🔭 I’m currently working on [NFT Pic Generator](https://github.com/nftpicgen)
 
 - 🌱 I’m currently learning [**Backend Engineer Career Path from Codecademy**](https://www.codecademy.com/learn/paths/back-end-engineer-career-path)
 
