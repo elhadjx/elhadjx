@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hadj</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1000&pause=1000&color=F70000&center=true&repeat=false&width=435&lines=Hadj+Hadji)](https://git.io/typing-svg)
 <h3 align="center">A passionate Backend developer from Algeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elhadjx&label=Profile%20views&color=ff0000&style=flat" alt="elhadjx" /> </p>
