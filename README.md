@@ -21,7 +21,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elhadjx&label=Profile%20views&color=ff0000&style=flat" alt="elhadjx" /> </p>
 
-- 🔭 I’m currently working on [NFT Pic Generator](https://github.com/elhadjx/nftpicgen)
+- 🔭 I’m currently working on [**NFT Pic Generator**](https://github.com/elhadjx/nftpicgen)
 
 - 🌱 I’m currently learning [**Backend Engineer Career Path from Codecademy**](https://www.codecademy.com/learn/paths/back-end-engineer-career-path)
 
