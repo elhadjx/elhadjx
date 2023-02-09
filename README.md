@@ -27,7 +27,7 @@
 
 - 👯 I’m looking to collaborate on **backend of any web app**
 
-- 👨‍💻 All of my projects are available at [**elhadjx.me**](http://elhadjx.github.com)
+- 👨‍💻 All of my projects are available at [**elhadjx.me**](http://elhadjx.me)
 
 - 💬 Ask me about **Node.js, Express.js**
 
