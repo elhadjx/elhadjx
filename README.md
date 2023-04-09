@@ -20,7 +20,7 @@
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elhadjx&label=Profile%20views&color=ff0000&style=flat" alt="elhadjx" /> </p>
 
-- 🔭 I’m currently working on [**ReadLess - PDF summarizing platform using Ai**](https://readless.ai)
+- 🔭 I’m currently working on [**ReadLess - PDF summarizing platform using Ai**](https://readless.tech)
 
 - 🌱 I’m currently learning [**Backend Engineer Career Path from Codecademy**](https://www.codecademy.com/learn/paths/back-end-engineer-career-path)
 
