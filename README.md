@@ -30,7 +30,7 @@
 
 - 💬 Ask me about **Node.js, Express.js**
 
-- 📫 How to reach me **dino.elhaj@gmail.com**
+- 📫 How to reach me **elhadjx@genft.tech**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
