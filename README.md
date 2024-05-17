@@ -34,10 +34,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/dino_elhadj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dino_elhadj" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hadj-hadji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hadj-hadji" height="30" width="40" /></a>
-<a href="https://fb.com/dino.hadji.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dino.hadji.9" height="30" width="40" /></a>
+<a href="https://twitter.com/elhadjxxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="elhadjxxx" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/elhadjx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elhadjx" height="30" width="40" /></a>
+<a href="https://fb.com/mr.elhadjx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mr.elhadjx" height="30" width="40" /></a>
 <a href="https://instagram.com/elhadj.x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="elhadj.x" height="30" width="40" /></a>
+<a href="https://t.me/elhadjx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="elhadjxx" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
