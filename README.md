@@ -38,7 +38,7 @@
 <a href="https://linkedin.com/in/elhadjx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elhadjx" height="30" width="40" /></a>
 <a href="https://fb.com/mr.elhadjx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mr.elhadjx" height="30" width="40" /></a>
 <a href="https://instagram.com/elhadj.x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="elhadj.x" height="30" width="40" /></a>
-<a href="https://t.me/elhadjx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="elhadjxx" height="30" width="40" /></a>
+<a href="https://t.me/elhadjx" target="blank"><img align="center" src="https://commons.wikimedia.org/wiki/File:Telegram_logo.svg" alt="elhadjxx" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
