@@ -20,23 +20,21 @@
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elhadjx&label=Profile%20views&color=ff0000&style=flat" alt="elhadjx" /> </p>
 
-- 🔭 I’m currently working on [**ReadLess - PDF summarizing platform using Ai**](https://readless.tech)
+[comment]: <> (- 🔭 I’m currently working on [**ReadLess - PDF summarizing platform using Ai**](https://readless.tech))
 
 - 🌱 I’m currently learning [**Backend Engineer Career Path from Codecademy**](https://www.codecademy.com/learn/paths/back-end-engineer-career-path)
 
-- 👯 I’m looking to collaborate on **backend of any web app**
+- 👯 I’m looking to collaborate on **Fullstack Web Apps**
 
-- 👨‍💻 All of my projects are available at [**elhadjx.me**](http://elhadjx.me)
+[comment]: <> (- 👨‍💻 All of my projects are available at [**elhadjx.me**](http://elhadjx.me))
 
-- 💬 Ask me about **Node.js, Express.js**
+- 💬 Ask me about **Node.js, Express.js, Web3, Firebase, Scraping, Bots, Ai**
 
 - 📫 How to reach me **elhadjx@tapeo.pro**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/elhadjxxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="elhadjxxx" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/elhadjx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elhadjx" height="30" width="40" /></a>
-<a href="https://fb.com/mr.elhadjx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mr.elhadjx" height="30" width="40" /></a>
 <a href="https://instagram.com/elhadj.x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="elhadj.x" height="30" width="40" /></a>
 <a href="https://t.me/elhadjx" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="elhadjxx" height="30" width="40" /></a>
 </p>
