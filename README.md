@@ -20,13 +20,9 @@
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elhadjx&label=Profile%20views&color=ff0000&style=flat" alt="elhadjx" /> </p>
 
-[comment]: <> (- 🔭 I’m currently working on [**ReadLess - PDF summarizing platform using Ai**](https://readless.tech))
-
 - 🌱 I’m currently learning [**Backend Engineer Career Path from Codecademy**](https://www.codecademy.com/learn/paths/back-end-engineer-career-path)
 
 - 👯 I’m looking to collaborate on **Fullstack Web Apps**
-
-[comment]: <> (- 👨‍💻 All of my projects are available at [**elhadjx.me**](http://elhadjx.me))
 
 - 💬 Ask me about **Node.js, Express.js, Web3, Firebase, Scraping, Bots, Ai**
 
