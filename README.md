@@ -24,7 +24,7 @@
 
 - 👯 I’m looking to collaborate on **Fullstack Web Apps**
 
-- 💬 Ask me about **Node.js, Nest.js, Express.js, Web3, Firebase, Supabase, Saas, Scraping, Bots, Ai**
+- 💬 Ask me about **Node.js, Express.js, Firebase, Saas, Scraping, Bots**
 
 - 📫 How to reach me **elhadjxyz@gmail.com**
 
